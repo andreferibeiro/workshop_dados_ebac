@@ -1,6 +1,6 @@
 # Workshop Fundamentos da Matemática para Análise de Dados | EBAC
 
-## [Dia 1: Fundamentos da Matemática](workshop_dados_ebac_dia1.ipynb)
+## [Dia 1: Fundamentos da Matemática](https://github.com/andreferibeiro/workshop_dados_ebac/blob/main/workshop_dados_ebac_dia1.ipynb)
 * PEMDAS: Parêntesis, Exponenciação, Multiplicação, Divisão, Adição e Subtração
 * Principais tipos de Dados: Numéricos, cadeia de caracteres, buleanos
 * Conversão de dados: Como consultar e modificar o tipo de um dado
